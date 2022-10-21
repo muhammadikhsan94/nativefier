@@ -1,0 +1,4 @@
+1. npm uninstall -g electron-osx-sign (deprected package)
+2. npm install -g @electron/osx-sign (new package)
+3. npm install -g nativefier
+4. nativefier --name "nama_app" "url_app" -i ./images/nama_logo.ico
